@@ -3,4 +3,4 @@ for zero web school web course
 
 
 
-project notes 
+## project notes 
